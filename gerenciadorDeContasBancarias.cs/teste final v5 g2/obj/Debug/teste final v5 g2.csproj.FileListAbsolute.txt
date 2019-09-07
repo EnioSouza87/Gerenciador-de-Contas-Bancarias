@@ -1,0 +1,10 @@
+C:\Users\curso.AM\Desktop\enio\teste final v5 g2\teste final v5 g2\bin\Debug\teste final v5 g2.exe
+C:\Users\curso.AM\Desktop\enio\teste final v5 g2\teste final v5 g2\bin\Debug\teste final v5 g2.pdb
+C:\Users\curso.AM\Desktop\enio\teste final v5 g2\teste final v5 g2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\curso.AM\Desktop\enio\teste final v5 g2\teste final v5 g2\obj\Debug\teste final v5 g2.exe
+C:\Users\curso.AM\Desktop\enio\teste final v5 g2\teste final v5 g2\obj\Debug\teste final v5 g2.pdb
+C:\Users\curso.AM\Desktop\TRABALHO G2 DESK - ENIO E MATEUS VEDOY\teste final v5 g2\obj\Debug\teste final v5 g2.exe
+C:\Users\curso.AM\Desktop\TRABALHO G2 DESK - ENIO E MATEUS VEDOY\teste final v5 g2\obj\Debug\teste final v5 g2.pdb
+C:\Users\curso.AM\Desktop\TRABALHO G2 DESK - ENIO E MATEUS VEDOY\teste final v5 g2\bin\Debug\teste final v5 g2.exe
+C:\Users\curso.AM\Desktop\TRABALHO G2 DESK - ENIO E MATEUS VEDOY\teste final v5 g2\bin\Debug\teste final v5 g2.pdb
+C:\Users\curso.AM\Desktop\TRABALHO G2 DESK - ENIO E MATEUS VEDOY\teste final v5 g2\obj\Debug\ResolveAssemblyReference.cache
